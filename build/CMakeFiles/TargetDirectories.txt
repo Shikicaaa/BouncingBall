@@ -1,0 +1,3 @@
+C:/Users/stefa/Desktop/Bouncing Ball/build/CMakeFiles/main.dir
+C:/Users/stefa/Desktop/Bouncing Ball/build/CMakeFiles/edit_cache.dir
+C:/Users/stefa/Desktop/Bouncing Ball/build/CMakeFiles/rebuild_cache.dir
